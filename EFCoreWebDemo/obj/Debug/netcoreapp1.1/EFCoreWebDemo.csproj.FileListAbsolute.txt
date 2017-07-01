@@ -1,0 +1,8 @@
+C:\EFCoreWebDemo\bin\Debug\netcoreapp1.1\EFCoreWebDemo.deps.json
+C:\EFCoreWebDemo\bin\Debug\netcoreapp1.1\EFCoreWebDemo.runtimeconfig.json
+C:\EFCoreWebDemo\bin\Debug\netcoreapp1.1\EFCoreWebDemo.runtimeconfig.dev.json
+C:\EFCoreWebDemo\bin\Debug\netcoreapp1.1\EFCoreWebDemo.dll
+C:\EFCoreWebDemo\bin\Debug\netcoreapp1.1\EFCoreWebDemo.pdb
+C:\EFCoreWebDemo\obj\Debug\netcoreapp1.1\EFCoreWebDemo.AssemblyInfo.cs
+C:\EFCoreWebDemo\obj\Debug\netcoreapp1.1\EFCoreWebDemo.dll
+C:\EFCoreWebDemo\obj\Debug\netcoreapp1.1\EFCoreWebDemo.pdb
